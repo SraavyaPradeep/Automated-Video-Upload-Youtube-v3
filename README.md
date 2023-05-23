@@ -18,7 +18,7 @@ Afterwards:
 
 (5) Download the JSON file
 
-(6) Modify the credentials_file variable of the Python File to include the path to your JSON file
+(6) Modify the credentials_file variable of refactor.py to include the path to your JSON file
 
 (7) Modify the information.txt file to include your video's information
 
