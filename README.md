@@ -1,6 +1,6 @@
 # Automated-Video-Upload-Youtube-v3
 
-This code was written during my internship at TheoryOfStocks. I have been given permission to share this on my personal Github Page. 
+Automates the process of converting a .mov file to .mp4, selecting a frame for the thumbnail, and uploading the video to Youtube.
 
 # Getting Started
 
@@ -20,7 +20,7 @@ Afterwards:
 
 (6) Modify line - of the Python File to include the path to your JSON file
 
-(7) Modify the information.txt file to fit your video's information
+(7) Modify the information.txt file to include your video's information
 
 
 # Running upload.sh
@@ -32,7 +32,11 @@ Afterwards:
 (3) Run the following command:
 
 ````
-./upload.sh [FILE NAME (w/out extension)] [information.txt]
+./upload.sh [FILE NAME] [information.txt]
 ````
 
+NOTE: [FILE NAME] should not include the file's current extension
+
 **Youtube requires phone number authentication for accounts uploading a thumbnail. 
+
+Disclaimer: This code was written during my internship at TheoryOfStocks. I have been given permission to share this on my personal Github Page. 
