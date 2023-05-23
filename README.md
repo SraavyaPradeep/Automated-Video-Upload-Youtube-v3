@@ -1,4 +1,4 @@
-# Automated-Youtube-Video-Upload
+# Automated Youtube Video Upload
 
 Automates the process of converting a .mov file to .mp4, selecting a frame for the thumbnail, and uploading the video to Youtube.
 
