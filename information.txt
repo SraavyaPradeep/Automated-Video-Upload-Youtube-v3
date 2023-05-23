@@ -1,11 +1,11 @@
 title: Test Video Upload
 description: Test Video
 category: 22
-thumbnailDefault (Format - url..height..width): SuccessMay9.jpg..1000..553
-thumbnailHigh (Format - url..height..width): SuccessMay9.jpg..1000..553
-thumbnailMaxres (Format -  url..height..width): SuccessMay9.jpg..1000..553
-thumbnailStandard (Format - url..height..width): SuccessMay9.jpg..1000..553
-thumbnailMedium (Format - url..height..width): SuccessMay9.jpg..1000..553
+thumbnailDefault (Format - url..height..width): Test.jpg..1000..553
+thumbnailHigh (Format - url..height..width): Test.jpg..1000..553
+thumbnailMaxres (Format -  url..height..width): Test.jpg..1000..553
+thumbnailStandard (Format - url..height..width): Test.jpg..1000..553
+thumbnailMedium (Format - url..height..width): Test.jpg..1000..553
 privacyStatus: 2
 madeForKids: False
 selfDeclaredMadeForKids: False
